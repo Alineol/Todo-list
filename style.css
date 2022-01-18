@@ -1,0 +1,23 @@
+.completed { text-decoration: line-through solid black; }
+#titulo {text-align: center; font-weight: bolder;}
+p {margin-top: 0px; font-size: 10px; color: gray;}
+header {color: pink;}
+body {background-color: powderblue;}
+#lista { display: inline;}
+ol {background-color: white; 
+    margin-left: 100px; 
+    margin-right: 100px; 
+    border:double;
+    border-color: pink;
+    border-width: 5px;
+    font-family:monospace;
+    font-size: 12px;}
+li {word-break: break-all; }
+button,input { outline: none;
+    border-radius: 10px;
+    border-color: gray; 
+    border: 1px;
+    padding: 5px;   
+}
+button{ background-color: rgb(177, 174, 174); color: pink; font-weight: bolder; }
+#botoes { text-align: center;}
